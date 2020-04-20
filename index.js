@@ -15,7 +15,7 @@ if(navigator.geolocation){
   lat = position.coords.latitude;
   let proxy = 'https://cors-anywhere.herokuapp.com/';
   let api = `${proxy}https://api.darksky.net/forecast/9e00d522da20f32ddb9cc5f341b5338a/${lat},${long}`;
- console.log(api);
+  console.log(api);
   fetch(api)
   .then(response =>{
     return response.json();
