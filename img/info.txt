@@ -1,0 +1,12 @@
+clear-day
+clear-night
+partly-cloudy-day
+partly-cloudy-night
+cloudy
+rain
+sleet
+snow
+wind
+fog
+https://www.decolore.net/weather-forecast-icon-sets/
+https://www.google.com/search?q=weather+icons&tbm=isch&source=iu&ictx=1&fir=959M2Oi_BBVW7M%253A%252CAFaQ50Nt-zsp5M%252C_&vet=1&usg=AI4_-kTOb-AYq743xySmR--Zk-X2PUrDSw&sa=X&ved=2ahUKEwjUwKeUufXoAhW-QEEAHS_DCA0Q9QEwAHoECAgQMA#imgrc=jUBCSSI-GNP05M
